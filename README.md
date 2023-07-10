@@ -35,7 +35,9 @@
 
 <a name="usage"></a>
 ## Usage
- To use this program, run the code with any given terminal to be prompted with the questions. To each questions give the repsonse that will correlate to the project that you are meaning to create the read me for. Once all the questions are answered the file will be created and appear in your project to be used. It will be named "newReadMe.me" as to assure it doesn't overwrite the readme for this project.
+ To use this program, run the code with any given terminal to be prompted with the questions. To each questions give the repsonse that will correlate to the project that you are meaning to create the read me for. Once all the questions are answered the file will be created and appear in your project to be used. It will be named "newReadMe.me" as to assure it doesn't overwrite the readme for this project. 
+
+ Once downloaded run the index.js file to start the program.
 
 <a name="contribution"></a>
 ## Contribution
