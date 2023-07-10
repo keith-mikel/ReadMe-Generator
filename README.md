@@ -1,4 +1,4 @@
-# Keith Project
+# Read Me Generator
 
 
   ## Table of Contents
@@ -22,7 +22,7 @@
 
 <a name="description"></a>
 ## Description
- this is the desciption
+ This project is a readme.me generator to create a proper readme.me file for any given project using a command line interface. When the program is run it will prompt the user with questions to colllect all the inforamtion needed to fill out a proper readme file.
 
 <a name="installation"></a>
 ## Installation
@@ -30,20 +30,22 @@
   Use SSH github link in order to install this project ssh to install Read.ME generator
 
    ```bash
-   clone git@github.com:keith-mikel/weather-app.git 
+   clone git@github.com:keith-mikel/ReadMe-Generator.git
    ```
 
 <a name="usage"></a>
 ## Usage
- this is the test instrutions
+ To use this program, run the code with any given terminal to be prompted with the questions. To each questions give the repsonse that will correlate to the project that you are meaning to create the read me for. Once all the questions are answered the file will be created and appear in your project to be used. It will be named "newReadMe.me" as to assure it doesn't overwrite the readme for this project.
 
 <a name="contribution"></a>
 ## Contribution
- contribution detail
+ Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 <a name="test"></a>
 ## Test Instructions 
- this is the instructions
+ There are currently no tests assosiated with this project.
 
 <a name="license"></a>
 ## License 
@@ -52,11 +54,11 @@
 <a name="githubLink"></a>
 ## Github Link 
 
- https://github.com/keith-mikel/weather-app
+ https://github.com/keith-mikel/ReadMe-Generator
 
 <a name="contact"></a>
 ## Contact Information 
 
   For additonal information please check out my github keith-mikel
 
-  or reach me by email at keith@email.com
+  or reach me by email at keith.mikel@e5sol.com
